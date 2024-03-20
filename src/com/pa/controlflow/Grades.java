@@ -1,3 +1,5 @@
+package com.pa.controlflow;
+
 import java.util.Scanner;
 
 public class Grades {

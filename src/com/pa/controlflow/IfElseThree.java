@@ -1,3 +1,5 @@
+package com.pa.controlflow;
+
 public class IfElseThree {
     public static void main(String[] args) {
         //3. Write a program that declares 1 integer variable x, and then assigns 15 to it.
