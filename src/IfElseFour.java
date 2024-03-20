@@ -5,7 +5,7 @@ public class IfElseFour {
         // “In range” if the number is between 10 and 20 (including equal to 10 or 20).
         // Change x to 5 and notice the result.
 
-        int x = 5 ;
+        int x = 15 ;
         if( x >= 10 && x <= 20) {
             System.out.println("In range");
         }else{

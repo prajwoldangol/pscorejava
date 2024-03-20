@@ -29,6 +29,7 @@ public class IncomeTax {
                 for( String s : filingStatus) {
                     if (status.equals(s)) {
                         valid = true;
+                        break;
                     }
                 }
             if( !valid ){
