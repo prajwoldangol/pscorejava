@@ -3,6 +3,7 @@ package com.pa.loops;
 public class Multiplication {
     public static void main(String[] args) {
 
+        //1 Write a program that uses nested for loops to print a multiplication table.
         int multiplication = 0 ;
         for(int i = 1; i <=10; i++){
 
