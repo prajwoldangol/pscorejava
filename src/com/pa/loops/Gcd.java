@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Gcd {
     public static void main(String[] args) {
+        //Write a program that prompts the user to enter two positive integers, and find their greatest common divisor (GCD).
         Scanner input = new Scanner(System.in);
         int firstNum, secondNum ;
         System.out.println("Enter First Number");
