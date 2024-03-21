@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Tution {
     public static void main(String[] args) {
+        //Suppose the tuition for a university is $10,000 for the current year and increases by 7 percent every year.
+        //In how many years will the tuition be doubled?
         Scanner input = new Scanner(System.in) ;
         double tution;
         int rate ;
