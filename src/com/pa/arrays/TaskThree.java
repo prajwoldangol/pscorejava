@@ -2,7 +2,7 @@ package com.pa.arrays;
 
 import java.util.Arrays;
 
-public class StringArr {
+public class TaskThree {
     public static void main(String[] args) {
         //Task 3: Write a program that creates an array of String type and initializes it with the
         //strings “red,” “green,” “blue,” and “yellow.” Print out the array length. Make a copy

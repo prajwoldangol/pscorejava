@@ -1,6 +1,6 @@
 package com.pa.arrays;
 
-public class ArrExceptions {
+public class TaskFour {
     public static void main(String[] args) {
         //Task 4: Write a program that creates an integer array with 5 elements (i.e., numbers).
         //The numbers can be any integers. Print out the value at the first index and the last

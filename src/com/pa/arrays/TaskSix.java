@@ -2,7 +2,7 @@ package com.pa.arrays;
 
 import java.util.Arrays;
 
-public class ArrayLoopThruTwo {
+public class TaskSix {
     public static void main(String[] args) {
         //Task 6: Write a program where you create an integer array of 5 numbers. Loop
         //through the array and assign the value of the loop control variable multiplied by 2 to

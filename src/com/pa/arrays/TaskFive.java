@@ -2,7 +2,7 @@ package com.pa.arrays;
 
 import java.util.Arrays;
 
-public class ArrayLoopThru {
+public class TaskFive {
     public static void main(String[] args) {
         //Task 5: Write a program where you create an integer array with a length of 5. Loop
         //through the array and assign the value of the loop control variable (e.g., i) to the

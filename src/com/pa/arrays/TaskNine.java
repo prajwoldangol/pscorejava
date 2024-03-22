@@ -2,7 +2,7 @@ package com.pa.arrays;
 
 import java.util.Arrays;
 
-public class ArraySorting {
+public class TaskNine {
     public static void main(String[] args) {
         //Task 9:
         //Write a program to sort the following int array in ascending order: {4, 2, 9, 13, 1,

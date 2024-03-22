@@ -3,7 +3,7 @@ package com.pa.arrays;
 
 import java.util.Scanner;
 
-public class UserFavouriteThings {
+public class TaskEleven {
     public static void main(String[] args) {
         //Task 11: Write some Java code that asks the user how many favorite things they
         //have. Based on their answer, you should create a String array of the correct size.
